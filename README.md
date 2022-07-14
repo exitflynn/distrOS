@@ -30,5 +30,10 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | chaOS |
 | chaayOS |
 | JesOS |
+| WindOS |
+| OreOS |
+| JalapeñOS |
+| RhinocerOS |
+| PortobellOS |
 <!-- Add here in roughly the following format:
 | OSName | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
