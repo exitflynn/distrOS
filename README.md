@@ -13,7 +13,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 |BailamOS| Early 2000's computers + Ricardo MilOS + Beaches + Spanish vibes and Dancing | Title of an absolute jammer Enrique Iglesias [song](https://www.youtube.com/watch?v=UQ_b-VjjBnY) | de nada|
 |ZapdOS| | One of the three Legendary Gen-1 / Kanto region Pokémon, literally thunderbird.| must be free n up for grabs, im lazy rn to check|
 | chocOS |
-| DistrOS | | 😳 | |
+| DistrOS || 😳 ||
 | adiOS | 
 | amigOS |
 | morbiOS |
@@ -40,6 +40,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | AlbatrOS |
 | PortobellOS |
 | atmOS |
+| KantOS || After the Kanto region of Pokémon ||
 
 <!-- Add here in roughly the following format:
 | OSName | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
