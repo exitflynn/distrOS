@@ -27,6 +27,9 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | KratOS |
 | TacOS |
 | ThanOS |
+| mayoOS |
+| negrOS | true nature of black people |
+| brOS |
 | chaOS |
 | chaayOS |
 | JesOS |
