@@ -30,6 +30,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | mayoOS |
 | negrOS |
 | brOS |
+| hOS |
 | chaOS |
 | chaayOS |
 | JesOS |
@@ -45,9 +46,9 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | atmOS |
 | KantOS || After the Kanto region of Pokémon ||
 | Brosb4hOS || Famous words of MICHAEL SCOTT | nah idts |
-| Muertos | 
-| DangerOS |
-| CaicOS |
-| CalypsOS |
+| MuertOS || After ~the Pixar movie Coco obviously~ Día de los Muertos, a holiday celebrated mostly by Mexican people / people of Mexican heritage | Nope!
+| DangerOS | Executes `sudo rm -rf /` the moment you make an error, so `sudo` carefully 😈 | I'd be putting us both in danger if I told you, because it's Dangerous. 🤦 | Nope. Phew.
+| CaicOS | Peaceful island themed | After the Caicos Isles. | Nope, a bit _too_ niche ig
+| CalypsOS || The Greek goddess-nymph of the mythical island of Ogygia and a daughter of the Titan Atlas (see: [Homer's Odyssey](https://en.wikipedia.org/wiki/Odyssey) and [a more recent update](https://riordan.fandom.com/wiki/Calypso)). | No
 <!-- Add here in roughly the following format:
 | OSName | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
