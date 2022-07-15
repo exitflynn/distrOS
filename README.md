@@ -45,5 +45,9 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | atmOS |
 | KantOS || After the Kanto region of Pokémon ||
 | Brosb4hOS || Famous words of MICHAEL SCOTT | nah idts |
+| Muertos | 
+| DangerOS |
+| CaicOS |
+| CalypsOS |
 <!-- Add here in roughly the following format:
 | OSName | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
