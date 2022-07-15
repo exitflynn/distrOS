@@ -31,6 +31,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | negrOS |
 | brOS |
 | hOS |
+| GeniOS |
 | chaOS |
 | chaayOS |
 | JesOS |
@@ -45,7 +46,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | PortobellOS |
 | atmOS |
 | KantOS || After the Kanto region of Pokémon ||
-| Brosb4hOS || Famous words of MICHAEL SCOTT | nah idts |
+| Brosb4hOS | This operating system will always be there for you, even when she yo ho no mo. Priorities.| Famous words of MICHAEL SCOTT | nah idts |
 | MuertOS || After ~the Pixar movie Coco obviously~ Día de los Muertos, a holiday celebrated mostly by Mexican people / people of Mexican heritage | Nope!
 | DangerOS | Executes `sudo rm -rf /` the moment you make an error, so `sudo` carefully 😈 | I'd be putting us both in danger if I told you, because it's Dangerous. 🤦 | Nope. Phew.
 | CaicOS | Peaceful island themed | After the Caicos Isles. | Nope, a bit _too_ niche ig
