@@ -39,18 +39,18 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | OreOS |
 | JalapeñOS |
 | RhinocerOS |
-| CosmOS |
-| LogOS |
-| thermOS |
+| CosmOS |[eminarican](https://github.com/eminarican)
+| LogOS |[eminarican](https://github.com/eminarican)
+| thermOS |[eminarican](https://github.com/eminarican)
 | AlbatrOS |
 | PortobellOS |
 | atmOS |
-| KantOS ||| After the Kanto region of Pokémon ||
+| KantOS |[TheoCGaming](https://github.com/TheoCGaming)|| After the Kanto region of Pokémon ||
 | Brosb4hOS || This operating system will always be there for you, even when she yo ho no mo. Priorities.| Famous words of MICHAEL SCOTT | nah idts |
-| MuertOS ||| After ~the Pixar movie Coco obviously~ Día de los Muertos, a holiday celebrated mostly by Mexican people / people of Mexican heritage | Nope!
-| DangerOS || Executes `sudo rm -rf /` the moment you make an error, so `sudo` carefully 😈 | I'd be putting us both in danger if I told you, because it's Dangerous. 🤦 | Nope. Phew.
-| CaicOS || Peaceful island themed | After the Caicos Isles. | Nope, a bit _too_ niche ig
-| CalypsOS ||| The Greek goddess-nymph of the mythical island of Ogygia and a daughter of the Titan Atlas (see: [Homer's Odyssey](https://en.wikipedia.org/wiki/Odyssey) and [a more recent update](https://riordan.fandom.com/wiki/Calypso)). | No
+| MuertOS |[eminarican](https://github.com/eminarican)||| After ~the Pixar movie Coco obviously~ Día de los Muertos, a holiday celebrated mostly by Mexican people / people of Mexican heritage | Nope!
+| DangerOS |[eminarican](https://github.com/eminarican) with a small edit by [exitflynn](github.com/exitflynn)| Executes `sudo rm -rf /` the moment you make an error, so `sudo` carefully 😈 | I'd be putting us both in danger if I told you, because it's Dangerous. 🤦 | Nope. Phew.
+| CaicOS |[eminarican](https://github.com/eminarican)| Peaceful island themed | After the Caicos Isles. | Nope, a bit _too_ niche ig
+| CalypsOS |[eminarican](https://github.com/eminarican)|| The Greek goddess-nymph of the mythical island of Ogygia and a daughter of the Titan Atlas (see: [Homer's Odyssey](https://en.wikipedia.org/wiki/Odyssey) and [a more recent update](https://riordan.fandom.com/wiki/Calypso)). | No
 
 <!-- Add here in roughly the following format:
 | OSName | Submitted By | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
