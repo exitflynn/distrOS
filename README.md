@@ -6,28 +6,28 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 
 | OS NAME        | Submitted By | OS Description / Ideas              | Etymology of the OS Name / The Reference | Taken IRL? |
 |:--------------:|:------------:|-------------------------------------|:----------------------------------------:|:----------:|
-| NachOS         |[exitflynn](github.com/exitflynn)|                                     | Nachos are a Mexican food consisting of fried tortilla chips or totopos covered with melted cheese or cheese sauce, as well as a variety of other toppings.|    yes     |
-| DoritOS        |[exitflynn](github.com/exitflynn)|                                     | Doritos is an American brand of flavored tortilla chips (see: [Illuminati](https://en.wikipedia.org/wiki/Illuminati)).|yes|
-|CheetOS         |[exitflynn](github.com/exitflynn)|                                      |                                          |nah dont think so|
-|MentOS|[exitflynn](github.com/exitflynn)|||same as above|
-|BailamOS|[exitflynn](github.com/exitflynn)| Early 2000's computers + Ricardo MilOS + Beaches + Spanish vibes and Dancing | Title of an absolute jammer Enrique Iglesias [song](https://www.youtube.com/watch?v=UQ_b-VjjBnY) | de nada|
-|ZapdOS|[exitflynn](github.com/exitflynn)| | One of the three Legendary Gen-1 / Kanto region Pokémon, literally thunderbird.| must be free n up for grabs, im lazy rn to check|
-| chocOS |[exitflynn](github.com/exitflynn)|
+| NachOS         |[exitflynn](https://github.com/exitflynn)|                                     | Nachos are a Mexican food consisting of fried tortilla chips or totopos covered with melted cheese or cheese sauce, as well as a variety of other toppings.|    yes     |
+| DoritOS        |[exitflynn](https://github.com/exitflynn)|                                     | Doritos is an American brand of flavored tortilla chips (see: [Illuminati](https://en.wikipedia.org/wiki/Illuminati)).|yes|
+|CheetOS         |[exitflynn](https://github.com/exitflynn)|                                      |                                          |nah dont think so|
+|MentOS|[exitflynn](https://github.com/exitflynn)|||same as above|
+|BailamOS|[exitflynn](https://github.com/exitflynn)| Early 2000's computers + Ricardo MilOS + Beaches + Spanish vibes and Dancing | Title of an absolute jammer Enrique Iglesias [song](https://www.youtube.com/watch?v=UQ_b-VjjBnY) | de nada|
+|ZapdOS|[exitflynn](https://github.com/exitflynn)| | One of the three Legendary Gen-1 / Kanto region Pokémon, literally thunderbird.| must be free n up for grabs, im lazy rn to check|
+| chocOS |[exitflynn](https://github.com/exitflynn)|
 | DistrOS |[arvindpunk](https://github.com/arvindpunk)| 😳 ||
-| adiOS |[exitflynn](github.com/exitflynn)|
-| amigOS |[exitflynn](github.com/exitflynn)|
+| adiOS |[exitflynn](https://github.com/exitflynn)|
+| amigOS |[exitflynn](https://github.com/exitflynn)|
 | morbiOS |[akshgpt7 // POOP SIR 😎](https://github.com/akshgpt7)
-| BezOS |[exitflynn](github.com/exitflynn)| | CEO, Entrepreneur. Born in 1964. Jeffrey, Jeffrey Bezos. | no way
+| BezOS |[exitflynn](https://github.com/exitflynn)| | CEO, Entrepreneur. Born in 1964. Jeffrey, Jeffrey Bezos. | no way
 | Los Polos HermanOS |[arvindpunk](https://github.com/arvindpunk)
 | OuroborOS |[arvindpunk](https://github.com/arvindpunk)|| a distro which has everything connected via circular linked lists.
-| solylOS |[exitflynn](github.com/exitflynn)| a distro which only uses double linked lists or something because it's the same thing backwards, idk dsa.
-| sophOS |[exitflynn](github.com/exitflynn)
-| KronOS |[exitflynn](github.com/exitflynn)|imagine a real minimal* arch-based OS, greek mythology themed sht everywhere, uh which somehow really beginner friendly for automating work stuff and built so as to be able to run multiple cron-jobs really ez'ly *KDE only. | Super-Powerful Titan in Greek Mythology. 
-| GyaradOS |[exitflynn](github.com/exitflynn)
+| solylOS |[exitflynn](https://github.com/exitflynn)| a distro which only uses double linked lists or something because it's the same thing backwards, idk dsa.
+| sophOS |[exitflynn](https://github.com/exitflynn)
+| KronOS |[exitflynn](https://github.com/exitflynn)|imagine a real minimal* arch-based OS, greek mythology themed sht everywhere, uh which somehow really beginner friendly for automating work stuff and built so as to be able to run multiple cron-jobs really ez'ly *KDE only. | Super-Powerful Titan in Greek Mythology. 
+| GyaradOS |[exitflynn](https://github.com/exitflynn)
 | KratOS |[गमछा drip](https://steamcommunity.com/profiles/76561199051568705)
 | TacOS |[गमछा drip](https://steamcommunity.com/profiles/76561199051568705)
 | ThanOS |[गमछा drip](https://steamcommunity.com/profiles/76561199051568705)
-| mayoOS |[exitflynn](github.com/exitflynn)|
+| mayoOS |[exitflynn](https://github.com/exitflynn)|
 | negrOS |[iwaili](https://github.com/iwaili)
 | brOS |
 | hOS |
