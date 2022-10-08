@@ -52,5 +52,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | CaicOS |[eminarican](https://github.com/eminarican)| Peaceful island themed | After the Caicos Isles. | Nope, a bit _too_ niche ig
 | CalypsOS |[eminarican](https://github.com/eminarican)|| The Greek goddess-nymph of the mythical island of Ogygia and a daughter of the Titan Atlas (see: [Homer's Odyssey](https://en.wikipedia.org/wiki/Odyssey) and [a more recent update](https://riordan.fandom.com/wiki/Calypso)). | No
 | JealOS | [osBins](https://github.com/osBins) | UI so beautiful it makes the other distros jealous | | No 
+| Los SantOS | [adityaaa07](https://github.com/adityaaa07)
+| PoisonOS | [adityaaa07](https://github.com/adityaaa07)
 <!-- Add here in roughly the following format:
 | OSName | Submitted By | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
