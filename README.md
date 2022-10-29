@@ -54,5 +54,8 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | JealOS | [osBins](https://github.com/osBins) | UI so beautiful it makes the other distros jealous | | No 
 | Los SantOS | [adityaaa07](https://github.com/adityaaa07)
 | PoisonOS | [adityaaa07](https://github.com/adityaaa07)
+| PreciOS | [adityaaa07](https://github.com/adityaaa07)||Something worth fighting for,like hacktoberfest 4 pull request. https://en.wikipedia.org/wiki/File:One_Ring_Blender_Render.png|YES
+| yodOS | [adityaaa07](https://github.com/adityaaa07) ||People say you only live once, its actually wrong you live daily but you die only once...| YES
+
 <!-- Add here in roughly the following format:
 | OSName | Submitted By | OSDesc. | NameReference | TakenIRL?   (can leave cells empty, everything except OSName is optional) -->
