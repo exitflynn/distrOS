@@ -28,6 +28,7 @@ A list of words and/or phrases (mostly words) that could (arguably) make great O
 | TacOS |[गमछा drip](https://steamcommunity.com/profiles/76561199051568705)
 | ThanOS |[गमछा drip](https://steamcommunity.com/profiles/76561199051568705)
 | mayoOS |[exitflynn](https://github.com/exitflynn)|
+| momOS | [giganiga](https://github.com/mudit06mah)| | Momos are small, stuffed dumplings usuallyfilled with vegetables or meat and served with a spicy dipping sauce.
 | negrOS |[iwaili](https://github.com/iwaili)
 | brOS |
 | hOS |
